@@ -1,0 +1,5 @@
+Project use:
++ VueX
++ Axios
++ Vue Router
++ Vee Validate
